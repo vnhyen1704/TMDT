@@ -11,10 +11,10 @@
 	<!-- wp:group {"className":"wp-block-group-heading"} -->
 	<div class="wp-block-group wp-block-group-heading">
 		<!-- wp:heading {"textAlign":"center"} -->
-		<h2 class="wp-block-heading has-text-align-center"> <?php esc_html_e ( 'Featured Contents', 'kiddiemart-lite' ); ?></h2>
+		<h2 class="wp-block-heading has-text-align-center"> <?php esc_html_e ( 'Bài viết', 'kiddiemart-lite' ); ?></h2>
 		<!-- /wp:heading -->
 		<!-- wp:paragraph {"align":"center"} -->
-		<p class="has-text-align-center"> <?php esc_html_e ( 'Modern Furniture from Famous Manufacturers and Designers Offering the Finest Furnishings for Every Room of Your Home or Office', 'kiddiemart-lite' ); ?></p>
+		<p class="has-text-align-center"> <?php esc_html_e ( '', 'kiddiemart-lite' ); ?></p>
 		<!-- /wp:paragraph -->
 	</div>
 	<!-- /wp:group -->
