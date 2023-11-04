@@ -152,7 +152,7 @@ class OrderController {
 		$this->validate_coupons( $order );
 		$this->validate_email( $order );
 		$this->validate_selected_shipping_methods( $needs_shipping, $chosen_shipping_methods );
-		$this->validate_addresses( $order );
+//		$this->validate_addresses( $order );
 	}
 
 	/**
